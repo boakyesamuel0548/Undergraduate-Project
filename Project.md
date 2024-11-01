@@ -1,6 +1,6 @@
 # Undergraduate-Project
 
-#During my undergraduate studies, I completed a machine learning project analyzing the impact of rainfall and temperature on cocoa yield.
+##During my undergraduate studies, I completed a machine learning project analyzing the impact of rainfall and temperature on cocoa yield.
 
 ## ASSESSING THE IMPACT OF RAINFALL AND TEMPERATURE PATTERNS ON COCOA YIELD USING MACHINE LEARNING
 
